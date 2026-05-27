@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tom Koreny (@lordpuma)
+- 👋 Hi, I’m Tom Koreny (@tomkoreny)
 - 👀 I’m interested in anything AWS, cloud monitoring, microservices, scalable architecture.
 - 🌱 I’m currently learning AWS, Arduino.
 - 📫 tom@tomkoreny.com
